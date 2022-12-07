@@ -60,7 +60,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
     <include_path>
-      <path value="$PROJECT_DIR$/../../../xampp/php/cfg" />
+      <path value="$USER_HOME$/xampp/php/cfg" />
     </include_path>
   </component>
   <component name="ProblemsViewState">
@@ -115,8 +115,8 @@
     <configuration name="edit.html" type="JavascriptDebugType" uri="http://localhost:63342/bwp-501-bsmk3/edite.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="kais" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" singleton="false" document_root="$PROJECT_DIR$" port="8080" router_script="$PROJECT_DIR$/../../../xampp/php/phpdbg.exe" use_router_script="true">
-      <CommandLine workingDirectory="$PROJECT_DIR$/../../../xampp/php" />
+    <configuration name="kais" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" singleton="false" document_root="$PROJECT_DIR$" port="8080" router_script="$USER_HOME$/xampp/php/phpdbg.exe" use_router_script="true">
+      <CommandLine workingDirectory="$USER_HOME$/xampp/php" />
       <method v="2">
         <option name="LaunchBrowser.Before.Run" />
       </method>
